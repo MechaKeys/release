@@ -13,9 +13,7 @@ MechaKeys is tested on Arch Linux, and Arch-based distributions like Endeavour a
 
 
 ## Autoupdate Compatibility
-Windows users are able to automatically download and install updates without manual intervention.
-
-macOS users cannot automatically update, and must download and install the latest build manually.
+Windows and macOS users are able to automatically download and install updates without manual intervention.
 
 Linux-based users will automatically download the latest tar.gz archive of the build.
 
